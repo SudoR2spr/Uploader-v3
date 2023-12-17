@@ -28,7 +28,7 @@ async def torrent(_, message):
     m = await message.reply_text("Searching\nThis might take a while")
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(f"https://api.abir-hasan.tk/1337x?{query}) \
+            async with session.get(f"https://torrent-api-py-n37l.onrender.com/api/v1/search?site=1337x&query=") \
                     as resp:
                 a = json.loads(await resp.text())
     except:
