@@ -31,9 +31,9 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Url xV2🚀](http://t.me/URLX_bot)
+**📛 My Name** : [Url xV2🚀](http://t.me/URL_X_bot)
 
-**❤️ Version** : [2 beta 🔥](http://t.me/URLX_bot)
+**❤️ Version** : [2 beta 🔥](http://t.me/URL_X_bot)
 
 **🤖 Source** : [Click](https://github.com)
 
@@ -41,7 +41,7 @@ I Am Telegram URL Uploader Bot.
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [nothing](https://t.me/shado_hackers)
+**👨‍💻 Developer** : [nothing](https://t.me/tellyhub)
 
 **IMPORTANT** [HOW TO USE](https://telegra.ph/HOW-TO-AVOID-BAN-12-14)
 
