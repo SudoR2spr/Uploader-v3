@@ -19,17 +19,9 @@
   ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V3"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 
-### Deploy to Render
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LISA-KOREA/UPLOADER-BOT-V3/tree/Master)
 
 ### NOTICE
 
-Use koyeb.txt file to deploy in koyeb
-
-#### How To Create Your Owner [YouTube Link](https://github.com/LISA-KOREA/UPLOADER-BOT-V3) (**Koyeb**)
-
-#### How To Create Mongodb Url Video [YouTube Link](https://youtu.be/VudXkbirhM8)
 
 
 ### Comment
@@ -48,7 +40,7 @@ showthumb - Showing Your Thumbnail 🏞
 2. `API_HASH` : Get it from https://my.telegram.org/apps
 3. `BOT_TOKEN` : Get it from [@Botfather](https://t.me/botfather)
 4. `DATABASE_URL` : Your mongodb url obtained from [mongodb.com](https://www.mongodb.com)
-5. `OWNER_ID` : Your telegram I'd use this bot [@UploadLinkToFileBot](https://telegram.dog/UploadLinkToFileBot) and use `/info`
+5. `OWNER_ID` : Your telegram I'd use this bot /info`
 6. `BOT_USERNAME` : Your Bot Username Without @
 7. `DEF_THUMB_NAIL_VID_S` : Add your thumbnail pic from @vTelegraphBot
 8. `UPDATES_CHANNEL` : Your Update channel id or skip
