@@ -31,9 +31,9 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Url xV2🚀](http://t.me/URLX_bot)
+**📛 My Name** : [𒆜 Url xV2🚀𒆜 ](http://t.me/URL_X_bot)
 
-**❤️ Version** : [2 beta 🔥](http://t.me/URLX_bot)
+**❤️ Version** : [𒆜 Beta 🔥𒆜 ](http://t.me/URL_X_bot)
 
 **🤖 Source** : [Click](https://github.com)
 
@@ -41,7 +41,7 @@ I Am Telegram URL Uploader Bot.
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [nothing](https://t.me/shado_hackers)
+**👨‍💻 Developer** : [𒆜 MY GF𒆜 ](https://t.me/tellyhub)
 
 **IMPORTANT** [HOW TO USE](https://telegra.ph/HOW-TO-AVOID-BAN-12-14)
 
@@ -92,11 +92,11 @@ I Am Telegram URL Uploader Bot.
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
-    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @URLX_bot"
+    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @URL_X_bot"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "📥 Downloading..."
-    UPLOAD_START = "📤 Uploading.."
+    DOWNLOAD_START = "📥𒆜  𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻𝗴..."
+    UPLOAD_START = "❤️ 𒆜 𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : Lisa 💕\nFor the List of Telegram Bots"
@@ -145,6 +145,6 @@ I Am Telegram URL Uploader Bot.
     DEV_TITLE = "support information"
     DEV_THUMB_URL = "https://telegra.ph/file/a7823975c07961870cc45.jpg"
     DEV_LINK = "https://t.me/OMG_info"
-    DEV_DESCRIPTION = "Name: OMG INFO | Telegram"
+    DEV_DESCRIPTION = "Name: 𒆜 MY INFO 𒆜  | Telegram"
     SHARE_BUTTON_TEXT = "Hi.. 👋\nCheckout : @{username}\nFor search and download TouTube Videos"
 
