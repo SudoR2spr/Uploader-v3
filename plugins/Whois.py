@@ -5,6 +5,9 @@ from pyrogram.errors import PeerIdInvalid
 from pyrogram.types import Message, User
 from pyrogram import Client
 from pyrogram import types, errors
+from pyrogram.errors import FloodWait
+from pyrogram.errors import BadRequest, Forbidden
+from pyrogram.errors import RPCError
 
 def ReplyCheck(message: Message):
     reply_id = None
