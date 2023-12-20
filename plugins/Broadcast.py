@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 import datetime
 import time
 from database.users_chats_db import db
-from info import ADMINS
+from plugins.info import OWNER
 from functions.utility import broadcast_messages
 import asyncio
         
