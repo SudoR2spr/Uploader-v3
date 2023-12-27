@@ -289,7 +289,7 @@ async def echo(bot, update):
 
 @Client.on_message(filters.private & filters.regex(pattern=".*http.*"))
 async def echo(bot, update):
-        if Config.LOG_CHANNEL
+        if Config.LOG_CHANNEL:
         logger.info(update.from_user)
         url = update.text
         youtube_dl_username = None
