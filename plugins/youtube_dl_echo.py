@@ -18,6 +18,8 @@ from pyrogram import Client
 from functions.forcesub import handle_force_subscribe
 from functions.display_progress import humanbytes
 from functions.help_uploadbot import DownLoadFile
+import lk21, urllib.parse, filetype, shutil, time, tldextract, asyncio, json, math, os, requests
+from PIL import Image
 from functions.display_progress import progress_for_pyrogram, humanbytes, TimeFormatter
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
@@ -283,3 +285,5 @@ async def echo(bot, update):
             parse_mode="html",
             reply_to_message_id=update.message_id
         )
+
+
